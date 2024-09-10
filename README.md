@@ -1,7 +1,9 @@
 # file-security-scanner
 A Python script to check  safety of a file using the VirusTotal API.
 
-How To Use : 
+<h1><strong>How To Use :</strong></h1>
+
+
 1- Create an account at VirusTotal . 
 2- Then Get your API key by doing the following . 
 
