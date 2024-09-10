@@ -12,7 +12,8 @@ How To Use :
 
 3- Add your API key to the script .
 
-![Screenshot 2024-09-10 201500](https://github.com/user-attachments/assets/abd0ba7c-c55c-473f-a748-646bb6ed7584)
+![Screenshot 2024-09-10 203516](https://github.com/user-attachments/assets/ef8fbeee-f856-43a9-b875-55c982d17ed6)
+
 
 4- Run the script And Enter the filename you want to Scan. 
 
